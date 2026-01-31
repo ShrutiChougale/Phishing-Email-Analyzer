@@ -1,4 +1,4 @@
-#🛡️ Phishing Email Analyzer (Web Application)
+**🛡️ Phishing Email Analyzer (Web Application)**
 
 
 📌 Project Overview
