@@ -1,4 +1,6 @@
-🛡️ Phishing Email Analyzer (Web Application)
+#🛡️ Phishing Email Analyzer (Web Application)
+
+
 📌 Project Overview
 
 Phishing attacks are one of the most common cybersecurity threats, targeting users through deceptive emails that appear legitimate. These emails often attempt to steal sensitive information such as usernames, passwords, or banking details.
